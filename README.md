@@ -2,34 +2,22 @@
 
 My first repository.
 
-## My Favorite Series
+## My Favorite Movie
 
-### Favorite Show: Stranger Things
+### Favorite Movie: Weathering with You
 
-- A thrilling mix of sci-fi, mystery, and adventure
-- Great characters and unforgettable moments
-- A perfect blend of suspense and nostalgia
+- Stunning animation and breathtaking visuals
+- A heartfelt story with deep emotions
+- A perfect mix of romance, fantasy, and hope
 
 ### Why I Love It
 
-> It keeps me on the edge of my seat with every episode.
+> It is emotional, beautiful, and unforgettable.
 
 ### Quick Facts
 
 | Title | Genre | Why it stands out |
 | --- | --- | --- |
-| Stranger Things | Sci-Fi / Mystery | Amazing storytelling and iconic 80s vibes |
+| Weathering with You | Romance / Fantasy | Beautiful animation and a touching story |
 
-## My Favorite Movie
-
-### Favorite Movie: The Avengers
-
-- Full of action, humor, and teamwork
-- Epic superhero battles
-- A great movie to watch with friends
-
-### Favorite Quote
-
-> "Whatever it takes." - Tony Stark
-
-**Overall:** These are my go-to picks when I want excitement and entertainment.
+**Overall:** Weathering with You is one of my favorite movies because of its emotional impact and beautiful storytelling.
